@@ -62,11 +62,20 @@
 
 ---
 
-## 📊 数据统计
+## 🏆 公司实力
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=systemdo-net&show_icons=true&theme=default&title_color=0b5cff&icon_color=00b090&text_color=343a40&bg_color=f8f9fc&hide_border=true&count_private=true" alt="GitHub 统计" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=systemdo-net&layout=compact&title_color=0b5cff&text_color=343a40&bg_color=f8f9fc&hide_border=true" alt="常用语言" height="165">
+  <img src="https://img.shields.io/badge/行业经验-10%2B_年-0b5cff?style=for-the-badge" alt="行业经验">
+  <img src="https://img.shields.io/badge/交付项目-1000%2B-00b090?style=for-the-badge" alt="交付项目">
+  <img src="https://img.shields.io/badge/客户满意度-99%25-0b5cff?style=for-the-badge" alt="客户满意度">
+  <img src="https://img.shields.io/badge/服务地区-全球海外华人-00b090?style=for-the-badge" alt="服务地区">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_仓库-7_个-0b5cff?style=for-the-badge&logo=github" alt="GitHub 仓库">
+  <img src="https://img.shields.io/badge/开源协议-MIT-00b090?style=for-the-badge" alt="MIT 协议">
+  <img src="https://img.shields.io/badge/技术栈-15%2B-0b5cff?style=for-the-badge" alt="技术栈">
+  <img src="https://img.shields.io/badge/覆盖领域-6_大板块-00b090?style=for-the-badge" alt="覆盖领域">
 </p>
 
 ---
@@ -74,10 +83,29 @@
 ## 📁 精选仓库
 
 <p align="center">
-  <a href="https://github.com/systemdo-net/website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=systemdo-net&repo=website&title_color=0b5cff&icon_color=00b090&text_color=343a40&bg_color=f8f9fc&hide_border=true" alt="企业官网"></a>
-  <a href="https://github.com/systemdo-net/docs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=systemdo-net&repo=docs&title_color=0b5cff&icon_color=00b090&text_color=343a40&bg_color=f8f9fc&hide_border=true" alt="文档中心"></a>
-  <a href="https://github.com/systemdo-net/software-development-guide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=systemdo-net&repo=software-development-guide&title_color=0b5cff&icon_color=00b090&text_color=343a40&bg_color=f8f9fc&hide_border=true" alt="软件开发指南"></a>
-  <a href="https://github.com/systemdo-net/awesome-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=systemdo-net&repo=awesome-ai&title_color=0b5cff&icon_color=00b090&text_color=343a40&bg_color=f8f9fc&hide_border=true" alt="AI 精选资源"></a>
+  <a href="https://github.com/systemdo-net/website">
+    <img src="https://img.shields.io/badge/📁_website-企业官网_Nuxt_3_SEO_GEO-0b5cff?style=for-the-badge" alt="website">
+  </a>
+  &nbsp;
+  <a href="https://github.com/systemdo-net/docs">
+    <img src="https://img.shields.io/badge/📁_docs-官方技术文档中心-00b090?style=for-the-badge" alt="docs">
+  </a>
+  &nbsp;
+  <a href="https://github.com/systemdo-net/software-development-guide">
+    <img src="https://img.shields.io/badge/📁_开发指南-全栈架构与DevOps-0b5cff?style=for-the-badge" alt="开发指南">
+  </a>
+  &nbsp;
+  <a href="https://github.com/systemdo-net/awesome-ai">
+    <img src="https://img.shields.io/badge/📁_AI_精选-LLM_RAG_Agent实战-00b090?style=for-the-badge" alt="AI 精选">
+  </a>
+  &nbsp;
+  <a href="https://github.com/systemdo-net/deployment-guide">
+    <img src="https://img.shields.io/badge/📁_部署指南-Docker_Linux_CI/CD-0b5cff?style=for-the-badge" alt="部署指南">
+  </a>
+  &nbsp;
+  <a href="https://github.com/systemdo-net/resources">
+    <img src="https://img.shields.io/badge/📁_资源中心-模板_工具_白皮书-00b090?style=for-the-badge" alt="资源中心">
+  </a>
 </p>
 
 ---
