@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://systemdo.net">
-    <img src="https://img.shields.io/badge/SDo_SystemDo-0b5cff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNy45M2MtMy45NS0uNDktNy0zLjg1LTctNy45MyAwLS40NS4wOC0uODguMi0xLjI5bDUuMjggNS4yOGMuMzkuMzkuOS42IDEuNDQuNmguMDdsLjE4LS4wMi0zLjM3LTMuMzdjLS43OC0uNzgtLjc4LTIuMDUgMC0yLjgzczIuMDUtLjc4IDIuODMgMGwyLjI0IDIuMjRjLjM5LjM5IDEuMDIuMzkgMS40MSAwIC4zOS0uMzkuMzktMS4wMiAwLTEuNDFsLTIuMjQtMi4yNGMtMS4yNS0xLjI1LTMuMjgtMS4yNS00LjUzIDBsLS43LjctLjctLjdjLTEuMjUtMS4yNS0zLjI4LTEuMjUtNC41MyAwLTEuMDYgMS4wNi0xLjI0IDIuNjUtLjUxIDMuODhMMi4yNyAxMS44QzQuMjkgOC4wNiA3LjkzIDUuNSAxMiA1LjVjMy42IDAgNi43OCAyLjA3IDguMzYgNS4xM2wtMS40MiAxLjQyYy0uMzkuMzktLjM5IDEuMDIgMCAxLjQxLjM5LjM5IDEuMDIuMzkgMS40MSAwbDEuNDItMS40MmMxLjEyIDIuOTIgMS4wMiA2LjI4LS4zMiA5LjA2bC0zLjM4LTMuMzhjLS43OC0uNzgtMi4wNS0uNzgtMi44MyAwLS43OC43OC0uNzggMi4wNSAwIDIuODNsMi4yNCAyLjI0Yy4zOS4zOSAxLjAyLjM5IDEuNDEgMCAuMzktLjM5LjM5LTEuMDIgMC0xLjQxbC0yLjI0LTIuMjRjLS43OC0uNzgtLjc4LTIuMDUgMC0yLjgzczIuMDUtLjc4IDIuODMgMGwzLjU0IDMuNTRjLjI0LS45NS4zNy0xLjkzLjM3LTIuOTMgMC0yLjY5LS45MS01LjE3LTIuNDItNy4xNGwxLjc3LTEuNzdjMS44OSAyLjk2IDIuMTUgNi43Ni42NCAxMC4wM3oiLz48L3N2Zz4=" alt="SystemDo">
+    <img src="https://img.shields.io/badge/SystemDo-0b5cff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNy45M2MtMy45NS0uNDktNy0zLjg1LTctNy45MyAwLS40NS4wOC0uODguMi0xLjI5bDUuMjggNS4yOGMuMzkuMzkuOS42IDEuNDQuNmguMDdsLjE4LS4wMi0zLjM3LTMuMzdjLS43OC0uNzgtLjc4LTIuMDUgMC0yLjgzczIuMDUtLjc4IDIuODMgMGwyLjI0IDIuMjRjLjM5LjM5IDEuMDIuMzkgMS40MSAwIC4zOS0uMzkuMzktMS4wMiAwLTEuNDFsLTIuMjQtMi4yNGMtMS4yNS0xLjI1LTMuMjgtMS4yNS00LjUzIDBsLS43LjctLjctLjdjLTEuMjUtMS4yNS0zLjI4LTEuMjUtNC41MyAwLTEuMDYgMS4wNi0xLjI0IDIuNjUtLjUxIDMuODhMMi4yNyAxMS44QzQuMjkgOC4wNiA3LjkzIDUuNSAxMiA1LjVjMy42IDAgNi43OCAyLjA3IDguMzYgNS4xM2wtMS40MiAxLjQyYy0uMzkuMzktLjM5IDEuMDIgMCAxLjQxLjM5LjM5IDEuMDIuMzkgMS40MSAwbDEuNDItMS40MmMxLjEyIDIuOTIgMS4wMiA2LjI4LS4zMiA5LjA2bC0zLjM4LTMuMzhjLS43OC0uNzgtMi4wNS0uNzgtMi44MyAwLS43OC43OC0uNzggMi4wNSAwIDIuODNsMi4yNCAyLjI0Yy4zOS4zOSAxLjAyLjM5IDEuNDEgMCAuMzktLjM5LjM5LTEuMDIgMC0xLjQxbC0yLjI0LTIuMjRjLS43OC0uNzgtLjc4LTIuMDUgMC0yLjgzczIuMDUtLjc4IDIuODMgMGwzLjU0IDMuNTRjLjI0LS45NS4zNy0xLjkzLjM3LTIuOTMgMC0yLjY5LS45MS01LjE3LTIuNDItNy4xNGwxLjc3LTEuNzdjMS44OSAyLjk2IDIuMTUgNi43Ni42NCAxMC4wM3oiLz48L3N2Zz4=" alt="SystemDo" width="200">
   </a>
 </p>
 
@@ -86,23 +86,23 @@
   <a href="https://github.com/systemdo-net/website">
     <img src="https://img.shields.io/badge/📁_website-企业官网_Nuxt_3_SEO_GEO-0b5cff?style=for-the-badge" alt="website">
   </a>
-  &nbsp;
+  <br>
   <a href="https://github.com/systemdo-net/docs">
     <img src="https://img.shields.io/badge/📁_docs-官方技术文档中心-00b090?style=for-the-badge" alt="docs">
   </a>
-  &nbsp;
+  <br>
   <a href="https://github.com/systemdo-net/software-development-guide">
     <img src="https://img.shields.io/badge/📁_开发指南-全栈架构与DevOps-0b5cff?style=for-the-badge" alt="开发指南">
   </a>
-  &nbsp;
+  <br>
   <a href="https://github.com/systemdo-net/awesome-ai">
     <img src="https://img.shields.io/badge/📁_AI_精选-LLM_RAG_Agent实战-00b090?style=for-the-badge" alt="AI 精选">
   </a>
-  &nbsp;
+  <br>
   <a href="https://github.com/systemdo-net/deployment-guide">
     <img src="https://img.shields.io/badge/📁_部署指南-Docker_Linux_CI/CD-0b5cff?style=for-the-badge" alt="部署指南">
   </a>
-  &nbsp;
+  <br>
   <a href="https://github.com/systemdo-net/resources">
     <img src="https://img.shields.io/badge/📁_资源中心-模板_工具_白皮书-00b090?style=for-the-badge" alt="资源中心">
   </a>
